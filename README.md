@@ -1,2 +1,2 @@
 # HACKATHON
-for hackathon 13-15june
+for hackathon 13-15june!
