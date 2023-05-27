@@ -1,8 +1,15 @@
  #important{
 	color:blue;
-	width: 100%;
+	width: 60%;
+	background-color: white;
+	text-align: center;
+}
+body{
+	background-color: cornflowerblue;
+	text-align: center;
+}
+p{
+	text-align: left;
 }
 
- #important{
-	color:blue;
-}
+ 
