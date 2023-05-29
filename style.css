@@ -16,7 +16,7 @@ p{
 #intro {
     height: 65vh;
     opacity: 0.8;
-    background-image: url();
+    background-image: url(moneyimg.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
