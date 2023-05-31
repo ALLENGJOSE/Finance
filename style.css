@@ -33,10 +33,11 @@ p{
 .card{
 	font-weight: bold;
 	font-size: 16px;
-	margin-left: 100px;;
+	margin-left: 10%;
 	margin-bottom: 50px;
 	background-color: aliceblue;
-	width: 60em;
+	width: 75vw;
+	max-width: 100%;
 	animation: SlideInleft 1s ease-in 1s 1 normal both;
 }
  
