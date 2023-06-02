@@ -22,6 +22,7 @@ p{
     background-position: center;
     background-attachment: fixed;
 }
+/*ashwin*/
 @keyframes SlideInleft {
 	from{
 		transform: translateX(-300px);
@@ -40,12 +41,13 @@ p{
 	max-width: 100%;
 	animation: SlideInleft 1s ease-in 1s 1 normal both;
 }
-
+/*ashwin*/
 .btn{
 	font-weight: bold;
 	text-align: center;
 	background-color:darkgreen;
 	color: antiquewhite;
+    
 }
  
 /*HKV*/
