@@ -40,6 +40,13 @@ p{
 	max-width: 100%;
 	animation: SlideInleft 1s ease-in 1s 1 normal both;
 }
+
+.btn{
+	font-weight: bold;
+	text-align: center;
+	background-color:darkgreen;
+	color: antiquewhite;
+}
  
 /*HKV*/
 /* Add a black background color to the top navigation bar */
