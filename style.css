@@ -50,6 +50,13 @@ p{
     font-size: 20px;
 	margin-right: 10px;
 }
+/*ashwin*/
+.btn:hover{
+	transform: translateY(-10px);
+	background-color:darkseagreen;
+	color: blue;
+	transition: transform 0.3s, background-color 0.3s, color 0.3s ;
+}
  
 /*HKV*/
 /* Add a black background color to the top navigation bar */
