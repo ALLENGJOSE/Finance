@@ -49,6 +49,7 @@ p{
 	color: antiquewhite;
     font-size: 20px;
 	margin-right: 10px;
+	border-radius: 100%;
 }
 /*ashwin*/
 .btn:hover{
