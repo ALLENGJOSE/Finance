@@ -39,7 +39,7 @@ p{
 	background-color: aliceblue;
 	width: 75vw;
 	max-width: 100%;
-	animation: SlideInleft 1s ease-in 1s 1 normal both;
+	animation: SlideInleft 0.5s ease-in 1s 1 normal both;
 }
 /*ashwin*/
 .btn{
