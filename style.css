@@ -171,7 +171,7 @@ textarea {
 }
 
 #contact-form button:hover {
-    background: white;
+    background: rgb(151, 59, 59);
     color: #13386fe0;
 }
 
