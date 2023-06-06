@@ -9,7 +9,7 @@
 	border-color: black;
 }
 body{
-	background-color: #98b6b5;
+	background-color: rgb(245,245,220);
 	text-align: center;
 }
 p{
@@ -43,6 +43,25 @@ p{
 	max-width: 100%;
 	animation: SlideInleft 0.5s ease-in 1s 1 normal both;
 }
+.info{
+	font-weight: bold;
+	font-size: 16px;
+	margin-left: 10%;
+	margin-bottom: 50px;
+	background-color: aliceblue;
+	width: 75vw;
+	max-width: 100%;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	border-radius: 3px;
+}
+.info p{
+	font-size: 20px;
+}
+.topic{
+	font-weight: bolder;
+	color: #CD7F32;
+	font-size: 3em;
+}
 /*ashwin*/
 .btn{
 	font-weight: bold;
@@ -56,7 +75,7 @@ p{
 /*ashwin*/
 .btn:hover{
 	transform: translateY(-10px);
-	background-color:#BDD22F;
+	background-color:#89bea3;
 	color: blue;
 	transition: transform 0.3s, background-color 0.3s, color 0.3s ;
 }
