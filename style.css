@@ -7,6 +7,7 @@
 	margin-left:20vw;
 	border-width: 4px;
 	border-color: black;
+	border-radius: 15px;
 }
 body{
 	background-color: rgb(180, 191, 206);
