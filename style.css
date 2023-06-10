@@ -10,6 +10,7 @@
 	border-radius: 15px;
 }
 body{
+	background-image: linear-gradient(red,yellow);
 	/*background-color: rgb(180, 191, 206);*/
 	/*background-color: rgb(240, 240, 220);*/
 	text-align: center;
