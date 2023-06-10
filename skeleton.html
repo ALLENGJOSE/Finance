@@ -17,8 +17,23 @@
             <a class="active" href="skeleton.html">Home</a>
             <!-- <a href="#about">About</a> -->
             <!-- <a href="#contact">Contact</a> -->
-            <input type="text" placeholder="Search">
-          </div>     
+            <!-- <input type="text" placeholder="Search">// -->
+          </div> 
+          <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn">Search...</button>
+            <div id="myDropdown" class="dropdown-content">
+              <input type="text" placeholder="Search..?" id="myInput" onkeyup="filterFunction()">
+              <a href="#about">About Us</a>
+              <a href="gold.html">Gold</a>
+              <a href="insurance.html">Insurance</a>
+              <a href="mutualfunds.html">Mutual Fund</a>
+              <a href="realestate.html">Real Estate</a>
+              <a href="stocks.html">Stocks</a>
+              <!-- <a href="#tools"></a> -->
+            </div>
+        </div>    
+        <script src="search.js"></script>
+  
         <h1 id = "important">
         <span>    <i class="fa-solid fa-money-bill"></i></span>
        <span>   THE IMPORTANCE OF FINANCIAL LITERACY</span>
